@@ -16,3 +16,4 @@ git recursively ADD file type from directory
 
 	git add ./\*.[file_Type]
 	
+	.*<\/a>$
